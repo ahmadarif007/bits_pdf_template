@@ -1,0 +1,71 @@
+body,
+div,
+p,
+h4,
+h5 {
+  margin: 0px;
+  padding: 0px;
+}
+div > p {
+  margin: 0px;
+}
+.main-content {
+  margin-top: 100px;
+}
+.logo img {
+  height: rem(100);
+  width: 30%;
+}
+.date {
+  margin-bottom: 30px;
+}
+.address {
+  margin-bottom: 30px;
+}
+.subject {
+  margin: 0px 0 10px 0;
+}
+.item {
+  display: flex;
+  width: 100%;
+}
+.si-no {
+  flex-basis: 7%;
+}
+.sino {
+  flex-basis: 90%;
+}
+.item-head {
+  font-size: rem(18);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.end-line {
+  margin-top: 50px;
+}
+.signature {
+  margin-top: 100px;
+}
+.signature-box {
+  width: 100%;
+  height: auto;
+  border: 2px solid black;
+  margin-bottom: 200px;
+  margin-top: 50px;
+}
+.title {
+  text-align: center;
+  font-size: rem(25);
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+.message {
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.date-singnature {
+  display: flex;
+  margin-bottom: 30px;
+}
