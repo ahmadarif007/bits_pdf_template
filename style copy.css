@@ -13,7 +13,8 @@ div > p {
   margin-top: 100px; margin-left: 100px; margin-right: 100px;
 }
 .logo img {
-  height: rem(100); width: 30%;
+  height: rem(100);
+  width: 30%;
 }
 .date {
   margin-bottom: 30px;
@@ -44,14 +45,24 @@ div > p {
   margin-top: 100px;
 }
 .signature-box {
-  width: 100%; height: auto; border: 2px solid black; margin-bottom: 200px; margin-top: 50px;
+  width: 100%;
+  height: auto;
+  border: 2px solid black;
+  margin-bottom: 200px;
+  margin-top: 50px;
 }
 .title {
-  text-align: center; font-size: rem(25); font-weight: bold; text-decoration: underline;margin-top: 10px;
+  text-align: center;
+  font-size: rem(25);
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 10px;
 }
 .message {
-  padding: 20px; margin-bottom: 30px;
+  padding: 20px;
+  margin-bottom: 30px;
 }
 .date-singnature {
-  display: flex; margin-bottom: 30px;
+  display: flex;
+  margin-bottom: 30px;
 }
